@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-29T16:30:14 IST" name="Suite" finished-at="2023-12-29T16:31:08 IST" duration-ms="53739">
+    <groups>
+    </groups>
+    <test started-at="2023-12-29T16:30:14 IST" name="Test" finished-at="2023-12-29T16:31:08 IST" duration-ms="53739">
+      <class name="org.orangeHrm.testscenarios.ThirdCaseScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.orangeHrm.testscenarios.ThirdCaseScenario@3754a4bf]" started-at="2023-12-29T16:30:35 IST" name="start" finished-at="2023-12-29T16:30:57 IST" duration-ms="21801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="thirdCaseScenario()[pri:0, instance:org.orangeHrm.testscenarios.ThirdCaseScenario@3754a4bf]" started-at="2023-12-29T16:31:04 IST" name="thirdCaseScenario" finished-at="2023-12-29T16:31:04 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdCaseScenario -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.orangeHrm.testscenarios.ThirdCaseScenario@3754a4bf]" started-at="2023-12-29T16:31:08 IST" name="end" finished-at="2023-12-29T16:31:08 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.orangeHrm.testscenarios.ThirdCaseScenario -->
+      <class name="org.orangeHrm.testscenarios.FirstCaseScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.orangeHrm.testscenarios.FirstCaseScenario@2d3379b4]" started-at="2023-12-29T16:30:19 IST" name="start" finished-at="2023-12-29T16:30:25 IST" duration-ms="5134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="firstCaseScenario()[pri:0, instance:org.orangeHrm.testscenarios.FirstCaseScenario@2d3379b4]" started-at="2023-12-29T16:30:57 IST" name="firstCaseScenario" finished-at="2023-12-29T16:31:02 IST" duration-ms="5487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCaseScenario -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.orangeHrm.testscenarios.FirstCaseScenario@2d3379b4]" started-at="2023-12-29T16:31:07 IST" name="end" finished-at="2023-12-29T16:31:07 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.orangeHrm.testscenarios.FirstCaseScenario -->
+      <class name="org.orangeHrm.testscenarios.FourthCaseScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.orangeHrm.testscenarios.FourthCaseScenario@13c9d689]" started-at="2023-12-29T16:30:25 IST" name="start" finished-at="2023-12-29T16:30:30 IST" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="fourthCaseScenario()[pri:0, instance:org.orangeHrm.testscenarios.FourthCaseScenario@13c9d689]" started-at="2023-12-29T16:31:03 IST" name="fourthCaseScenario" finished-at="2023-12-29T16:31:04 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthCaseScenario -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.orangeHrm.testscenarios.FourthCaseScenario@13c9d689]" started-at="2023-12-29T16:31:07 IST" name="end" finished-at="2023-12-29T16:31:07 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.orangeHrm.testscenarios.FourthCaseScenario -->
+      <class name="org.orangeHrm.testscenarios.FifthCaseScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.orangeHrm.testscenarios.FifthCaseScenario@28701274]" started-at="2023-12-29T16:30:14 IST" name="start" finished-at="2023-12-29T16:30:19 IST" duration-ms="5383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="fifthCaseScenario()[pri:0, instance:org.orangeHrm.testscenarios.FifthCaseScenario@28701274]" started-at="2023-12-29T16:31:02 IST" name="fifthCaseScenario" finished-at="2023-12-29T16:31:03 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthCaseScenario -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.orangeHrm.testscenarios.FifthCaseScenario@28701274]" started-at="2023-12-29T16:31:07 IST" name="end" finished-at="2023-12-29T16:31:07 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.orangeHrm.testscenarios.FifthCaseScenario -->
+      <class name="org.orangeHrm.testscenarios.SecondCaseScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.orangeHrm.testscenarios.SecondCaseScenario@62379589]" started-at="2023-12-29T16:30:30 IST" name="start" finished-at="2023-12-29T16:30:35 IST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="secondCaseScenario()[pri:0, instance:org.orangeHrm.testscenarios.SecondCaseScenario@62379589]" started-at="2023-12-29T16:31:04 IST" name="secondCaseScenario" finished-at="2023-12-29T16:31:07 IST" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondCaseScenario -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.orangeHrm.testscenarios.SecondCaseScenario@62379589]" started-at="2023-12-29T16:31:07 IST" name="end" finished-at="2023-12-29T16:31:08 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.orangeHrm.testscenarios.SecondCaseScenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
