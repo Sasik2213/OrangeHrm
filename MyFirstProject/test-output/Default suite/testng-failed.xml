@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.orangeHrm.testscenarios.FirstCaseScenario">
+      <class name="org.orangeHrm.UserDashboard.testscenarios.FirstScenario">
         <methods>
-          <include name="firstCaseScenario"/>
           <include name="start"/>
-          <include name="end"/>
+          <include name="userDashboardScenario1"/>
         </methods>
-      </class> <!-- org.orangeHrm.testscenarios.FirstCaseScenario -->
+      </class> <!-- org.orangeHrm.UserDashboard.testscenarios.FirstScenario -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
