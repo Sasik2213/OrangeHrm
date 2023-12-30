@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.orangeHrm.UserDashboard.testscenarios.FirstScenario">
+      <class name="org.sasiguides.nopCommerce.testcases.Demo">
         <methods>
           <include name="start"/>
-          <include name="userDashboardScenario1"/>
+          <include name="nopCommerceRegister"/>
         </methods>
-      </class> <!-- org.orangeHrm.UserDashboard.testscenarios.FirstScenario -->
+      </class> <!-- org.sasiguides.nopCommerce.testcases.Demo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
