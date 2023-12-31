@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-30T22:12:23 IST" name="Default suite" finished-at="2023-12-30T22:12:30 IST" duration-ms="7686">
+  <suite started-at="2023-12-31T12:25:17 IST" name="Default suite" finished-at="2023-12-31T12:25:23 IST" duration-ms="6126">
     <groups>
     </groups>
-    <test started-at="2023-12-30T22:12:23 IST" name="Default test" finished-at="2023-12-30T22:12:30 IST" duration-ms="7686">
-      <class name="org.sasiguides.nopCommerce.testcases.Demo">
-        <test-method is-config="true" signature="start()[pri:0, instance:org.sasiguides.nopCommerce.testcases.Demo@5fe94a96]" started-at="2023-12-30T22:12:23 IST" name="start" finished-at="2023-12-30T22:12:27 IST" duration-ms="4468" status="PASS">
+    <test started-at="2023-12-31T12:25:17 IST" name="Default test" finished-at="2023-12-31T12:25:23 IST" duration-ms="6126">
+      <class name="org.sasiguides.nopCommerce.testcases.UserLogin">
+        <test-method signature="login()[pri:0, instance:org.sasiguides.nopCommerce.testcases.UserLogin@1bd4fdd]" started-at="2023-12-31T12:25:17 IST" name="login" finished-at="2023-12-31T12:25:23 IST" duration-ms="6086" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- start -->
-        <test-method signature="nopCommerceRegister()[pri:0, instance:org.sasiguides.nopCommerce.testcases.Demo@5fe94a96]" started-at="2023-12-30T22:12:27 IST" name="nopCommerceRegister" finished-at="2023-12-30T22:12:30 IST" duration-ms="3173" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- nopCommerceRegister -->
-      </class> <!-- org.sasiguides.nopCommerce.testcases.Demo -->
+        </test-method> <!-- login -->
+      </class> <!-- org.sasiguides.nopCommerce.testcases.UserLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

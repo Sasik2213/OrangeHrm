@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Demo {
+public class LoginNopCommerce {
 	
 	/* Declare the Webdriver */
 	public WebDriver driver;
