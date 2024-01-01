@@ -37,7 +37,7 @@ public class LoginNopCommerce {
 	 * Here,AfterTest method refers for every time we run differnt methods of
 	 * TestNG codes every time starts with Before Test code and ends with AfterTest
 	 */
-//	@AfterTest
+	@AfterTest
 	public void end() {
 		driver.close();
 	}

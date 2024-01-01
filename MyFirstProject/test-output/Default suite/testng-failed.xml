@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.sasiguides.nopCommerce.testcases.AddToCart">
+      <class name="org.sasiguides.nopCommerce.testcases.UserLogin">
         <methods>
-          <include name="addToCart"/>
-          <include name="start"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- org.sasiguides.nopCommerce.testcases.AddToCart -->
+      </class> <!-- org.sasiguides.nopCommerce.testcases.UserLogin -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -27,7 +27,7 @@ public class AddToCart {
 		driver = new ChromeDriver();
 		driver.get("https://demo.nopcommerce.com/");
 	}
-//	@AfterTest
+	@AfterTest
 	public void end() {
 		driver.quit();
 	}
